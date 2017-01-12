@@ -1,0 +1,25 @@
+.navigation ul {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    width; 100%;
+}
+
+.navigation ul > li {
+    align-items: center;
+    display: inline-block;
+    justify-content: center;
+}
+
+.navigation ul > li > a {
+    color: white;
+    display: block;
+    height: 30px;
+    text-decoration: none;
+    width: 100px;
+}
+
+.navigation ul > li > a:hover {
+    background-color: white;
+    color: blue;
+}

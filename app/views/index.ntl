@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  #title#
+  <link rel="stylesheet" type="text/css" href="../css/navigation.css">
+  <link rel="stylesheet" type="text/css" href="../css/header.css">
+</head>
+<body>
+  <nav class="navigation">
+    <ul>
+      <li><a href="#intro">Intro</a></li>
+      <li><a href="#purpose">Purpose</a></li>
+      <li><a href="#thanks">Thanks</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1>Hello, HTTP/2!</h1>
+  </header>
+  <section id="intro">
+    <p>Thanks for checking out the sample app that I made! The idea here is to demonstrate how we can use HTTP/2 to speed up our websites.</p>
+  </section>
+
+
+  <script src="../javascript/main.js"></script>
+</body>
+</html>

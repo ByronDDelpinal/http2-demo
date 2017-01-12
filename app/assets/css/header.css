@@ -1,0 +1,13 @@
+header {
+    align-items: center;
+    background-image: url('../images/hero.jpeg');
+    background-size: cover;
+    display: flex;
+    height: 400px;
+    justify-content: center;
+}
+
+header > h1 {
+    background-color: white;
+    width: auto;
+}
